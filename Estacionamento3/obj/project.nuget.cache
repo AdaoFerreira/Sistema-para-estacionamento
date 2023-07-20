@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "NFFy9PqzM5mFZeFt/SS0b7byxc8/oTUg94PpTVLERatoFF79ql4gpaSeZ79Hnpea8RHVvjkLRkxJfqMb9SPlyw==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Adão\\source\\repos\\Estacionamento3\\Estacionamento3\\Estacionamento3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adão\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.8\\microsoft.netcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\Adão\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.8\\microsoft.windowsdesktop.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\Adão\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.8\\microsoft.aspnetcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\Adão\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.8\\microsoft.netcore.app.host.win-x64.7.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

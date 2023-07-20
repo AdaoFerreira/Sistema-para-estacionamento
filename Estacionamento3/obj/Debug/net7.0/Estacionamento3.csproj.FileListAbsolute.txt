@@ -1,0 +1,15 @@
+C:\Users\Adão\source\repos\Estacionamento3\Estacionamento3\bin\Debug\net7.0\Estacionamento3.exe
+C:\Users\Adão\source\repos\Estacionamento3\Estacionamento3\bin\Debug\net7.0\Estacionamento3.deps.json
+C:\Users\Adão\source\repos\Estacionamento3\Estacionamento3\bin\Debug\net7.0\Estacionamento3.runtimeconfig.json
+C:\Users\Adão\source\repos\Estacionamento3\Estacionamento3\bin\Debug\net7.0\Estacionamento3.dll
+C:\Users\Adão\source\repos\Estacionamento3\Estacionamento3\bin\Debug\net7.0\Estacionamento3.pdb
+C:\Users\Adão\source\repos\Estacionamento3\Estacionamento3\obj\Debug\net7.0\Estacionamento3.csproj.AssemblyReference.cache
+C:\Users\Adão\source\repos\Estacionamento3\Estacionamento3\obj\Debug\net7.0\Estacionamento3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adão\source\repos\Estacionamento3\Estacionamento3\obj\Debug\net7.0\Estacionamento3.AssemblyInfoInputs.cache
+C:\Users\Adão\source\repos\Estacionamento3\Estacionamento3\obj\Debug\net7.0\Estacionamento3.AssemblyInfo.cs
+C:\Users\Adão\source\repos\Estacionamento3\Estacionamento3\obj\Debug\net7.0\Estacionamento3.csproj.CoreCompileInputs.cache
+C:\Users\Adão\source\repos\Estacionamento3\Estacionamento3\obj\Debug\net7.0\Estacionamento3.dll
+C:\Users\Adão\source\repos\Estacionamento3\Estacionamento3\obj\Debug\net7.0\refint\Estacionamento3.dll
+C:\Users\Adão\source\repos\Estacionamento3\Estacionamento3\obj\Debug\net7.0\Estacionamento3.pdb
+C:\Users\Adão\source\repos\Estacionamento3\Estacionamento3\obj\Debug\net7.0\Estacionamento3.genruntimeconfig.cache
+C:\Users\Adão\source\repos\Estacionamento3\Estacionamento3\obj\Debug\net7.0\ref\Estacionamento3.dll
